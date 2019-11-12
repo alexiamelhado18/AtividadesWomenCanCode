@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OOClasse/1.0.0": {
+        "dependencies": {
+          "Crushs": "1.0.0"
+        },
+        "runtime": {
+          "OOClasse.dll": {}
+        }
+      },
+      "Crushs/1.0.0": {
+        "runtime": {
+          "Crushs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOClasse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Crushs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

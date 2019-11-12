@@ -1,0 +1,15 @@
+C:\Users\woman\Desktop\OOClasse\OOClasse\bin\Debug\netcoreapp3.0\OOClasse.exe
+C:\Users\woman\Desktop\OOClasse\OOClasse\bin\Debug\netcoreapp3.0\OOClasse.deps.json
+C:\Users\woman\Desktop\OOClasse\OOClasse\bin\Debug\netcoreapp3.0\OOClasse.runtimeconfig.json
+C:\Users\woman\Desktop\OOClasse\OOClasse\bin\Debug\netcoreapp3.0\OOClasse.runtimeconfig.dev.json
+C:\Users\woman\Desktop\OOClasse\OOClasse\bin\Debug\netcoreapp3.0\OOClasse.dll
+C:\Users\woman\Desktop\OOClasse\OOClasse\bin\Debug\netcoreapp3.0\OOClasse.pdb
+C:\Users\woman\Desktop\OOClasse\OOClasse\obj\Debug\netcoreapp3.0\OOClasse.csprojAssemblyReference.cache
+C:\Users\woman\Desktop\OOClasse\OOClasse\obj\Debug\netcoreapp3.0\OOClasse.AssemblyInfoInputs.cache
+C:\Users\woman\Desktop\OOClasse\OOClasse\obj\Debug\netcoreapp3.0\OOClasse.AssemblyInfo.cs
+C:\Users\woman\Desktop\OOClasse\OOClasse\obj\Debug\netcoreapp3.0\OOClasse.dll
+C:\Users\woman\Desktop\OOClasse\OOClasse\obj\Debug\netcoreapp3.0\OOClasse.pdb
+C:\Users\woman\Desktop\OOClasse\OOClasse\bin\Debug\netcoreapp3.0\Crushs.exe
+C:\Users\woman\Desktop\OOClasse\OOClasse\bin\Debug\netcoreapp3.0\Crushs.dll
+C:\Users\woman\Desktop\OOClasse\OOClasse\bin\Debug\netcoreapp3.0\Crushs.pdb
+C:\Users\woman\Desktop\OOClasse\OOClasse\obj\Debug\netcoreapp3.0\OOClasse.csproj.CopyComplete
