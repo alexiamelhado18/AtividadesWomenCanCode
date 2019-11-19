@@ -1,0 +1,3 @@
+C:\Users\woman\source\repos\BrincandoDeCodar\PetShop\obj\Debug\netcoreapp3.0\PetShop.csprojAssemblyReference.cache
+C:\Users\woman\source\repos\BrincandoDeCodar\PetShop\obj\Debug\netcoreapp3.0\PetShop.AssemblyInfoInputs.cache
+C:\Users\woman\source\repos\BrincandoDeCodar\PetShop\obj\Debug\netcoreapp3.0\PetShop.AssemblyInfo.cs

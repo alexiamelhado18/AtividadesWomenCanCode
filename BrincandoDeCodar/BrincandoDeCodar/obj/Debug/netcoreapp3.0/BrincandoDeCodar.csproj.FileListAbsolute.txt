@@ -1,0 +1,3 @@
+C:\Users\woman\source\repos\BrincandoDeCodar\BrincandoDeCodar\obj\Debug\netcoreapp3.0\BrincandoDeCodar.csprojAssemblyReference.cache
+C:\Users\woman\source\repos\BrincandoDeCodar\BrincandoDeCodar\obj\Debug\netcoreapp3.0\BrincandoDeCodar.AssemblyInfoInputs.cache
+C:\Users\woman\source\repos\BrincandoDeCodar\BrincandoDeCodar\obj\Debug\netcoreapp3.0\BrincandoDeCodar.AssemblyInfo.cs
