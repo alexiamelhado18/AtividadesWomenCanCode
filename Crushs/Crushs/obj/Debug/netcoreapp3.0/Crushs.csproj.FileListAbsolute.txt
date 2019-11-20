@@ -1,0 +1,11 @@
+C:\Users\woman\source\repos\Crushs\Crushs\bin\Debug\netcoreapp3.0\Crushs.exe
+C:\Users\woman\source\repos\Crushs\Crushs\bin\Debug\netcoreapp3.0\Crushs.deps.json
+C:\Users\woman\source\repos\Crushs\Crushs\bin\Debug\netcoreapp3.0\Crushs.runtimeconfig.json
+C:\Users\woman\source\repos\Crushs\Crushs\bin\Debug\netcoreapp3.0\Crushs.runtimeconfig.dev.json
+C:\Users\woman\source\repos\Crushs\Crushs\bin\Debug\netcoreapp3.0\Crushs.dll
+C:\Users\woman\source\repos\Crushs\Crushs\bin\Debug\netcoreapp3.0\Crushs.pdb
+C:\Users\woman\source\repos\Crushs\Crushs\obj\Debug\netcoreapp3.0\Crushs.csprojAssemblyReference.cache
+C:\Users\woman\source\repos\Crushs\Crushs\obj\Debug\netcoreapp3.0\Crushs.AssemblyInfoInputs.cache
+C:\Users\woman\source\repos\Crushs\Crushs\obj\Debug\netcoreapp3.0\Crushs.AssemblyInfo.cs
+C:\Users\woman\source\repos\Crushs\Crushs\obj\Debug\netcoreapp3.0\Crushs.dll
+C:\Users\woman\source\repos\Crushs\Crushs\obj\Debug\netcoreapp3.0\Crushs.pdb

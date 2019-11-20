@@ -1,0 +1,25 @@
+﻿
+@model List<Materia>;
+
+@{
+    ViewData["Title"] = "Materias do curso";
+
+}
+
+<h1>Materias do curso</h1>
+
+@foreach (var item in Model)
+{
+    <h4>@item.Nome</h4>
+    if (string.IsNullOrEmpty(item.Descricao))
+    {
+        <p>Sem descrição</p>
+    }
+    else
+    {
+        <p>@item.Descricao</p>
+    }
+    <hr/>
+}
+
+@Html.Partial("/Views/Partial/Opcoes.cshtml")
