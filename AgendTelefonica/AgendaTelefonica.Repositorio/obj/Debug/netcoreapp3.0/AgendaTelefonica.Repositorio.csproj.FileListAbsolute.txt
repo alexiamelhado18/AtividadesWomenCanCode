@@ -1,0 +1,8 @@
+C:\Users\woman\source\repos\AgendTelefonica\AgendaTelefonica.Repositorio\bin\Debug\netcoreapp3.0\AgendaTelefonica.Repositorio.deps.json
+C:\Users\woman\source\repos\AgendTelefonica\AgendaTelefonica.Repositorio\bin\Debug\netcoreapp3.0\AgendaTelefonica.Repositorio.dll
+C:\Users\woman\source\repos\AgendTelefonica\AgendaTelefonica.Repositorio\bin\Debug\netcoreapp3.0\AgendaTelefonica.Repositorio.pdb
+C:\Users\woman\source\repos\AgendTelefonica\AgendaTelefonica.Repositorio\obj\Debug\netcoreapp3.0\AgendaTelefonica.Repositorio.csprojAssemblyReference.cache
+C:\Users\woman\source\repos\AgendTelefonica\AgendaTelefonica.Repositorio\obj\Debug\netcoreapp3.0\AgendaTelefonica.Repositorio.AssemblyInfoInputs.cache
+C:\Users\woman\source\repos\AgendTelefonica\AgendaTelefonica.Repositorio\obj\Debug\netcoreapp3.0\AgendaTelefonica.Repositorio.AssemblyInfo.cs
+C:\Users\woman\source\repos\AgendTelefonica\AgendaTelefonica.Repositorio\obj\Debug\netcoreapp3.0\AgendaTelefonica.Repositorio.dll
+C:\Users\woman\source\repos\AgendTelefonica\AgendaTelefonica.Repositorio\obj\Debug\netcoreapp3.0\AgendaTelefonica.Repositorio.pdb

@@ -1,0 +1,29 @@
+﻿@model Flor;
+
+@{
+    ViewData["Title"] = "Criar";
+}
+
+<h1>Criar</h1>
+
+<form method="post" asp-action="Criar">
+    Espécie
+    <select asp-for="Especie" placeholder="Selecione a espécie">
+        <option value="Antúrio">Antúrio</option>
+        <option value="Crista-de-galo"> Crista-de-galo</option>
+        <option value="Lavanda">Lavanda</option>
+        <option value="Rosa">Rosa</option>
+        <option value="violeta">Violeta</option>
+    </select><br />
+
+    <div class="caixa-texto>
+    <label for="Desc"></label><br />
+        <span class="etiqueta">Descrição</span>
+        <textarea rows="4" cols="20" asp-for="Descricao"></textarea>
+    </div>
+    Cor
+    <input asp-for="Cor" /><br />
+    Preço
+    <input asp-for="Preco" /><br />
+    <input type="submit" value="Criar flor" />
+</form>
